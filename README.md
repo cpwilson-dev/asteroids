@@ -1,3 +1,3 @@
-# bookbot
+# Asteroids
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Rebuilding the classic arcade game, Asteroids.
