@@ -1,1 +1,3 @@
-books
+# Virtual Environments
+venv/
+.venv/
